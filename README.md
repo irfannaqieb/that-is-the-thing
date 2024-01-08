@@ -1,8 +1,6 @@
-# React + Vite
+# Counter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This counter keeps track of how many times Professor say the phrase "That will be the thing", "That is the thing" "To paraphrase in brief", etc.
 
-Currently, two official plugins are available:
+Just in case you are bored in class :)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
