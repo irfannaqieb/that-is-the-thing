@@ -15,7 +15,7 @@ function App() {
   return (
     <>
       <h1>"That will be the thing"</h1>
-      <p>How many times does Professor say the phrase?</p>
+      <p>How many times does Professor say the phrase above?</p>
       <h4>Count: {count}</h4>
       <div className="card">
         <button onClick={handleIncrement}>+1</button>
